@@ -1,0 +1,16 @@
+body {
+  font-family: "Sofia", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #e67100;
+}
+
+div {
+  text-align: center;
+}
+
+.color-1 {
+  color: #4500e6;
+}
